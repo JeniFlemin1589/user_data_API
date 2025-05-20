@@ -9,7 +9,8 @@ user_data = {
         "name": "Jeni Thomas",
         "email": "jeni@gmail.com",
         "phone": "+1-555-1234",
-        "address": "123 Apple St, New York, NY"
+        "address": "123 Apple St, New York, NY",
+        "status": "shipped"
     },
     "sam": {
         "name": "Sam Wilson",
