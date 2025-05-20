@@ -10,13 +10,14 @@ user_data = {
         "email": "jeni@gmail.com",
         "phone": "+1-555-1234",
         "address": "123 Apple St, New York, NY",
-        "status": "shipped"
+        
     },
     "sam": {
         "name": "Sam Wilson",
         "email": "sam@gmail.com",
         "phone": "+1-555-5678",
-        "address": "456 Orange Ave, Los Angeles, CA"
+        "address": "456 Orange Ave, Los Angeles, CA",
+        "status": "pending"
     }
 }
 
